@@ -1,0 +1,20 @@
+body {background-color: azure;}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: silver;
+  border-width: 9px;
+  width: 5%;
+}
+h1{
+  color: #0a97b0;
+  text-align: center;
+
+}
+h3{
+  color: #0a97b0;
+}
+h2{
+  color:#0a97b0;
+}
